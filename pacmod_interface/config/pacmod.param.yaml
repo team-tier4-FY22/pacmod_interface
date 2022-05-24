@@ -10,7 +10,7 @@
     min_steering_wheel: -11.0
     max_steering_wheel_rate: 5.0
     min_steering_wheel_rate: 3.0
-    steering_offset: 0.0
+    steering_offset: -0.0025
     enable_steering_rate_control: false
     vgr_coef_a: 15.713
     vgr_coef_b: 0.053
